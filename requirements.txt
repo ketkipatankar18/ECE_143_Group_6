@@ -1,0 +1,5 @@
+pip install scikit-plot
+pip install umap-learn
+pip install scipy==1.11.4
+pip install surprise
+pip install xgboost
